@@ -34,55 +34,57 @@ class ThemeColors {
   }
 
   // Text Theme Colors
-  static Color displayLarge(BuildContext context) {
-    return Theme.of(context).textTheme.displayLarge!.color!;
-  }
-
-  static Color displayMedium(BuildContext context) {
-    return Theme.of(context).textTheme.displayMedium!.color!;
-  }
-
-  static Color displaySmall(BuildContext context) {
-    return Theme.of(context).textTheme.displaySmall!.color!;
-  }
-
-  static Color headlineMedium(BuildContext context) {
-    return Theme.of(context).textTheme.headlineMedium!.color!;
-  }
-
-  static Color headlineSmall(BuildContext context) {
-    return Theme.of(context).textTheme.headlineSmall!.color!;
-  }
-
-  static Color titleLarge(BuildContext context) {
-    return Theme.of(context).textTheme.titleLarge!.color!;
-  }
-
-  static Color titleMedium(BuildContext context) {
-    return Theme.of(context).textTheme.titleMedium!.color!;
-  }
-
-  static Color titleSmall(BuildContext context) {
-    return Theme.of(context).textTheme.titleSmall!.color!;
-  }
-
-  static Color bodyLarge(BuildContext context) {
-    return Theme.of(context).textTheme.bodyLarge!.color!;
-  }
-
-  static Color bodyMedium(BuildContext context) {
-    return Theme.of(context).textTheme.bodyMedium!.color!;
-  }
-
-  static Color labelLarge(BuildContext context) {
-    return Theme.of(context).textTheme.labelLarge!.color!;
-  }
-
-  static Color bodySmall(BuildContext context) {
-    return Theme.of(context).textTheme.bodySmall!.color!;
-  }
-
-  static Color labelSmall(BuildContext context) {
-    return Theme.of(context).textTheme.labelSmall!.color!;
-  }
+  // static Color displayLarge(BuildContext context) {
+  //   return Theme.of(context).textTheme.displayLarge!.color!;
+  // }
+  //
+  // static Color displayMedium(BuildContext context) {
+  //   return Theme.of(context).textTheme.displayMedium!.color!;
+  // }
+  //
+  // static Color displaySmall(BuildContext context) {
+  //   return Theme.of(context).textTheme.displaySmall!.color!;
+  // }
+  //
+  // static Color headlineMedium(BuildContext context) {
+  //   return Theme.of(context).textTheme.headlineMedium!.color!;
+  // }
+  //
+  // static Color headlineSmall(BuildContext context) {
+  //   return Theme.of(context).textTheme.headlineSmall!.color!;
+  // }
+  //
+  // static Color titleLarge(BuildContext context) {
+  //   return Theme.of(context).textTheme.titleLarge!.color!;
+  // }
+  //
+  // static Color titleMedium(BuildContext context) {
+  //   return Theme.of(context).textTheme.titleMedium!.color!;
+  // }
+  //
+  // static Color titleSmall(BuildContext context) {
+  //   return Theme.of(context).textTheme.titleSmall!.color!;
+  // }
+  //
+  // static Color bodyLarge(BuildContext context) {
+  //   return Theme.of(context).textTheme.bodyLarge!.color!;
+  // }
+  //
+  // static Color bodyMedium(BuildContext context) {
+  //   return Theme.of(context).textTheme.bodyMedium!.color!;
+  // }
+  //
+  // static Color labelLarge(BuildContext context) {
+  //   return Theme.of(context).textTheme.labelLarge!.color!;
+  // }
+  //
+  // static Color bodySmall(BuildContext context) {
+  //   return Theme.of(context).textTheme.bodySmall!.color!;
+  // }
+  //
+  // static Color labelSmall(BuildContext context) {
+  //   return Theme.of(context).textTheme.labelSmall!.color!;
+  // }
 }
+
+
